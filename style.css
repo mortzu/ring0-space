@@ -2,3 +2,12 @@
   font-size: 2rem;
   margin-right: .3em;
 }
+
+a.service-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.service-link:hover {
+  text-decoration: none;
+}
